@@ -1,17 +1,8 @@
-# internship_app
+# InternShip APP
 
-A new Flutter project.
+Flutter Project for Internship at InternSathi
 
-## Getting Started
+## A Flutter app with HIVE Database that displays a list of items, add new items to the list and remove items from the list. 
+## This App also reacts according to the time with greeting Message using Provider State Management.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # internsathi-flutter-internship_app
